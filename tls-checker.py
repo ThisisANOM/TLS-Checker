@@ -156,7 +156,7 @@ if __name__ == '__main__':
     888    888  888888     X88888     X88 d8888888888888   Y8888Y88b. .d88P888   "   888 
     888    888  888888 88888P'888 88888P'd88P     888888    Y888 "Y88888P" 888       888
          ''')
-    print('• https://github.com/ImanMontajabi/TLS-Checker')
+    print('• https://github.com/ThisisANOM')
     print('• version: 1.2.4')
     print('\n[ You can ignore the questions and just press Enter ↩ ]\n')
     # base path of files for read and save them
